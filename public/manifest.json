@@ -1,0 +1,20 @@
+{
+    "short_name": "President Club",
+    "name": "President Club",
+    "icons": [
+        {
+            "src": "iconx8.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "iconx8.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "prefer_related_applications" : false
+}

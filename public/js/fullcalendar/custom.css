@@ -1,0 +1,6 @@
+.fc-unthemed .fc-toolbar .fc-button .fc-icon.fc-icon-right-single-arrow:before {
+    content: ">"
+}
+.fc-unthemed .fc-toolbar .fc-button .fc-icon.fc-icon-left-single-arrow:before {
+    content: "<"
+}
